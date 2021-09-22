@@ -4,8 +4,8 @@
     "GOOGLE",
     "SAMSUNG"
   ],
-  "version_name": "2.2 - release",
+  "version_name": "2.3 - release",
   "name": "Rhythm - Audio Player",
-  "version_code": 4,
+  "version_code": 5,
   "release_notes": "Fixed various issue and bugs.\nAdded support for recent animations.\nnew Loading animation.\nand much more. And more"
 }
