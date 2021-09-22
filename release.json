@@ -1,0 +1,11 @@
+{
+  "priority": "HIGH",
+  "available_markets": [
+    "GOOGLE",
+    "SAMSUNG"
+  ],
+  "version_name": "12.5 - release",
+  "name": "Rhythm - Audio Player",
+  "version_code": 5,
+  "release_notes": "Fixed various issue and bugs.\nAdded support for recent animations.\nnew Loading animation.\nand much more. And more"
+}
