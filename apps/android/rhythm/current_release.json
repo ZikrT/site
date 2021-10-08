@@ -1,11 +1,10 @@
 {
   "priority": "HIGH",
   "available_markets": [
-    "GOOGLE",
-    "SAMSUNG"
+    "GOOGLE"
   ],
-  "version_name": "2.3 - release",
+  "version_name": "2.4 - release",
   "name": "Rhythm - Audio Player",
-  "version_code": 5,
+  "version_code": 6,
   "release_notes": "Fixed various issue and bugs.\nAdded support for recent animations.\nnew Loading animation.\nand much more. And more"
 }
