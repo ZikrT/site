@@ -1,7 +1,7 @@
 {
   "priority": "HIGH",
   "available_markets": [
-    "GOOGLE"
+    "GOOGLE", "SAMSUNG"
   ],
   "version_name": "2.4 - release",
   "name": "Rhythm - Audio Player",
